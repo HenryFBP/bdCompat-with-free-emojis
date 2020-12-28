@@ -13,7 +13,7 @@ module.exports = class BDCompat extends Plugin {
 
     powercord.api.settings.registerSettings('bdCompat', {
       category: 'bdCompat',
-      label: 'BetterDiscord Plugins',
+      label: 'BetterDiscord Plugins (plus free emojis)',
       render: Settings
     });
   }
