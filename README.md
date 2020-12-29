@@ -3,6 +3,10 @@ How to get emojis everywhere without nitro:
 1. Install PowerCord
 2. Install BetterDiscord plugin for PowerCord
 3. Clone this repo into the BetterDiscord plugins folder (plugin for a plugin for a mod, wow)
+   
+   `CTRL-, -> Powercord -> Plugins -> ... -> Open Plugins Folder`
+   
+   Then, when in `powercord/src/Powercord/plugins/`, `git clone https://github.com/HenryFBP/bdCompat-with-free-emojis/`
 
 # bdCompat
 
