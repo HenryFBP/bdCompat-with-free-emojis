@@ -8,6 +8,8 @@ How to get emojis everywhere without nitro:
    
    Then, when in `powercord/src/Powercord/plugins/`, `git clone https://github.com/HenryFBP/bdCompat-with-free-emojis/`
 
+4. Restart Discord. Then, `CTRL-, -> Powercord -> BetterDiscord Plugins (...) -> Enable DiscordFreeEmojis`
+
 # bdCompat
 
 Compatibility layer for running BetterDiscord plugins in Powercord
