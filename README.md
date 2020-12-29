@@ -1,3 +1,9 @@
+How to get emojis everywhere without nitro:
+
+1. Install PowerCord
+2. Install BetterDiscord plugin for PowerCord
+3. Clone this repo into the BetterDiscord plugins folder (plugin for a plugin for a mod, wow)
+
 # bdCompat
 
 Compatibility layer for running BetterDiscord plugins in Powercord
