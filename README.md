@@ -6,7 +6,7 @@ How to get emojis everywhere without nitro:
    
    `CTRL-, -> Powercord -> Plugins -> ... -> Open Plugins Folder`
    
-   Then, when in `powercord/src/Powercord/plugins/`, `git clone https://github.com/HenryFBP/bdCompat-with-free-emojis/`
+   Then, when your folder in command line is `powercord/src/Powercord/plugins/`, `git clone https://github.com/HenryFBP/discord-with-free-emojis`
 
 4. Restart Discord. Then, `CTRL-, -> Powercord -> BetterDiscord Plugins (...) -> Enable DiscordFreeEmojis`
 
