@@ -1,7 +1,7 @@
 How to get emojis everywhere without nitro:
 
-1. Install PowerCord
-2. Install BetterDiscord plugin for PowerCord (Comes pre-installed I think)
+1. Install [PowerCord](https://github.com/HenryFBP/discord-with-free-emojis)
+2. Install BetterDiscord plugin for PowerCord (Comes pre-installed)
 3. Clone this repo into the BetterDiscord plugins folder (plugin for a plugin for a mod, wow)
    
    `CTRL-, -> Powercord -> Plugins -> ... -> Open Plugins Folder`
