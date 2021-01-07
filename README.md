@@ -8,6 +8,17 @@ How to get emojis everywhere without nitro:
    
    Then, when your folder in command line is `powercord/src/Powercord/plugins/`, run `git clone https://github.com/HenryFBP/discord-with-free-emojis`
    
+   Example commands:
+   ```
+   git clone https://github.com/powercord-org/powercord
+   cd powercord
+   npm i
+   npm run plug
+   cd src/Powercord/plugins/
+   git clone https://github.com/HenryFBP/discord-with-free-emojis/
+   ls 
+   ```
+   
    You should see a folder list like this:
    
    ```
