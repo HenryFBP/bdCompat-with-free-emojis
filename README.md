@@ -26,7 +26,7 @@ How to get emojis everywhere without nitro:
    pc-clickableEdits/          pc-commands/    pc-docs/         pc-hastebin/      pc-i18n/     pc-mock/    pc-notices/        pc-sdk/  pc-spotify/   pc-updater/
    ```
 
-4. Restart Discord. Then, `CTRL-, -> Powercord -> BetterDiscord Plugins (...) -> Enable DiscordFreeEmojis`
+4. Restart Discord. Then, `CTRL-, -> Powercord -> BetterDiscord Plugins (...) -> Enable DiscordFreeEmojis`. YOU MUST DO THIS. DiscordFreeEmojis starts disabled.
 
 # bdCompat
 
