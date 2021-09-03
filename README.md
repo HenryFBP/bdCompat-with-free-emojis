@@ -1,3 +1,5 @@
+# NEVERMIND, JUST USE <https://betterdiscord.app/plugin/FreeEmojis>
+
 How to get emojis everywhere without nitro:
 
 1. Install nodejs
