@@ -1,6 +1,6 @@
 How to get emojis everywhere without nitro:
 
-1. Install npm
+1. Install nodejs
 2. Install [PowerCord](https://powercord.dev/installation)
 3. Install BetterDiscord plugin for PowerCord (Comes pre-installed)
 4. Clone this repo into the BetterDiscord plugins folder (plugin for a plugin for a mod, wow)
